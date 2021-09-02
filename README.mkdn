@@ -1,36 +1,20 @@
-LineageOS
+v1_OS 
 ===========
-
-Getting started
----------------
-
-To get started with Android/LineageOS, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
-
-To initialize your local repository using the LineageOS trees, use a command like this:
-```
-repo init -u git://github.com/LineageOS/android.git -b lineage-18.1
-```
-Then to sync up:
-```
-repo sync
-```
-Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
+_LineageOS fork made for GSI_
 
 
-Submitting patches
+Features
+-----------------
+- [ ] microg ready
+- [ ] privacy notifications
+- [ ] no connections to google servers
+- [ ] captive portal settings
+- [ ] airplane mode behaviour settings
+
+Building
 ------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
+Build like usually or use this [build script for GSI](https://github.com/AndyCGYan/lineage_build_unified).
+To init the repository, use:
 
-Simply follow our guide on [how to submit patches](https://wiki.lineageos.org/submitting-patch-howto.html).
+`repo init -u git://github.com/v-0S/android.git -b lineage-18.1`
 
-To view the status of your and others' patches, visit [LineageOS Gerrit Code Review](https://review.lineageos.org/).
-
-
-Buildbot
---------
-
-All supported devices are built weekly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [LineageOS Buildkite](https://buildkite.com/lineageos).
-
-Builds produced weekly by the buildbot can be downloaded from [LineageOS downloads](https://download.lineageos.org/).
