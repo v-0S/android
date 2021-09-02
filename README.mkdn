@@ -16,7 +16,7 @@ Features
 
 Building
 ------------------
-Build like usually or use this [build script for GSI](https://github.com/AndyCGYan/lineage_build_unified).
+Build like usually or use this [build script for GSI](https://github.com/v-0S/lineage_build_unified).
 To init the repository, use:
 
 `repo init -u git://github.com/v-0S/android.git -b lineage-18.1`
