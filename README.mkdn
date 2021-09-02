@@ -8,7 +8,7 @@ _LineageOS fork made for GSI_
 
 Features
 -----------------
-- [ ] microg ready
+- [X] microg ready
 - [ ] privacy notifications
 - [ ] no connections to google servers
 - [ ] captive portal settings
