@@ -1,5 +1,8 @@
-v1_OS 
-===========
+<p align="center">
+  <img width="460"  src="https://raw.githubusercontent.com/v-0S/artwork/main/logo_small.png">
+</p>
+
+
 _LineageOS fork made for GSI_
 
 
