@@ -8,7 +8,8 @@ _LineageOS fork made for GSI_
 
 Features
 -----------------
-- [X] microg ready
+- [X] microg included, signature spoofing enabled
+- [X] FOSS [apps](https://github.com/v-0S/android_prebuilts_prebuiltapks) included
 - [ ] privacy notifications
 - [ ] no connections to google servers
 - [ ] captive portal settings
